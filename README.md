@@ -2,12 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This Prework Study Guide captures some basic information about the cornerstone technologies used in web development today. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This simple project acts as a demonstration of the absolute basics of HTML, CSS, and JavaScript in action and was created to help me get familiar with the development process (including Git, coding best practices, and other need-to-knows).
+
+The webpage marks the 
 
 ## Installation
 
@@ -15,13 +14,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This Prework Study Guide provides brief introductory notes about web development and comprises the following topics: HTML, CSS, JavaScript, and Git. Feel free to dive further into each topic through other resources. All points of information are listed under appropriate topic headings--and each topic is encased in a border for visual clarity.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Don't know where to start? Open the Chrome Dev Tools console (via Command + Option + b) to have a script choose a topic of study for you. Refresh the page to rerun the script.
 
-![alt text](assets/images/screenshot.png)
-
-write a short paragraph about how this Prework Study Guide can be used. For example, you can write about how each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first. For now, we don't need to add an image, so you can delete that part.
+![A screenshot of the Prework Study Guide webpage with Chrome Dev Tools open.](assets/images/prework-study-guide-webpage.png)
 
 ## Credits
 
