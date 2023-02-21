@@ -6,7 +6,7 @@ This Prework Study Guide captures some basic information about the cornerstone t
 
 This simple project acts as a demonstration of the absolute basics of HTML, CSS, and JavaScript in action and was created to help me get familiar with the development process (including Git, coding best practices, and other need-to-knows).
 
-The webpage marks the 
+For personal interest, I will revisit this project as a reference to reflect back on once I have completed the coding bootcamp.
 
 ## Installation
 
